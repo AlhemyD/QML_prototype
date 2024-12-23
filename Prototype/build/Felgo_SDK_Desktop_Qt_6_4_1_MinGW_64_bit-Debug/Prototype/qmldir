@@ -1,0 +1,4 @@
+module Prototype
+typeinfo appPrototype.qmltypes
+prefer :/
+

@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Alhem/QML_prototype/Prototype
+-cmake-output
+-output-file
+C:/Users/Alhem/QML_prototype/Prototype/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appPrototype.cmake
+-importPath
+C:/Users/Alhem/QML_prototype/Prototype/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Prototype
+-importPath
+C:/Users/Alhem/QML_prototype/Prototype/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+C:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+C:/Users/Alhem/QML_prototype/Prototype/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_Prototype.qrc
+C:/Users/Alhem/QML_prototype/Prototype/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_Prototype_copy.qrc

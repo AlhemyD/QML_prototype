@@ -1,0 +1,8 @@
+{
+    "title": "Prototype",
+    "identifier": "com.yourcompany.wizardEVAP.Prototype",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
