@@ -33,7 +33,7 @@ file(GLOB_RECURSE AssetsFiles RELATIVE ${CMAKE_CURRENT_SOURCE_DIR} assets/* qml/
 list(REMOVE_ITEM AssetsFiles ${QmlFiles})
 
 qt_add_executable(appPrototype
-    main.cpp
+
     ${QmlFiles}
     ${AssetsFiles}
 )
